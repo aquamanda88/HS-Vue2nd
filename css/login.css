@@ -35,7 +35,6 @@ a {
 }
 
 .imgBlock {
-  background-image: url(https://images.unsplash.com/photo-1515859005217-8a1f08870f59?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2799&q=80);
   background-size: cover;
   background-position: center;
   border-top-left-radius: 15px;
